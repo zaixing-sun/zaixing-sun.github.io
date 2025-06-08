@@ -7,12 +7,13 @@
 
 # Site Settings
 title                    : "Zaixing Sun's Homepage"
-description              : "This is the academic homepage of Mr. Sun."
+description              : "This is the academic homepage of Dr. Sun."
 repository               : "zaixing-sun/zaixing-sun.github.io"
 google_scholar_stats_use_cdn : false
 
 # google analytics
-google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
+google_analytics_id      : "G-F6CHBHPE1X" # get google_analytics_id from https://analytics.google.com/analytics/
+microsoft_clarity_id        : "jeusgk34z0"
 
 # SEO Related
 google_site_verification :  # fQZQD0EwLaSOrp3EbALt2rjxHEY9pUvWuh1fS96xgNk # get google_site_verification from https://search.google.com/search-console/about
