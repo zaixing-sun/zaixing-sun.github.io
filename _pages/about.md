@@ -28,19 +28,34 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+1. **Zaixing Sun**, Hejiao Huang, Zhikai Li, and Chonglin Gu, “Energy-efficient real-time multi-workflow scheduling in container-based cloud,” *Journal of Combinatorial Optimization*, vol. 49, no. 34, pp. 1–21, 2025, [doi:10.1007/s10878-025-01265-8](https://doi.org/10.1007/s10878-025-01265-8).
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+1. **Zaixing Sun**, Fangfang Zhang, Yi Mei, Hejiao Huang, Chonglin Gu, Bin Qian, and Mengjie Zhang, “Evolving Scheduling Heuristics for Energy-Efficient Dynamic Workflow Scheduling in Cloud via Genetic Programming Hyper-Heuristics,” in *Proceedings of the International Conference on Intelligent Computing*, 2024, pp. 169–182, [doi:10.1007/978-981-97-5578-3_14](https://doi.org/10.1007/978-981-97-5578-3_14).
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+1. Xin Chen, Chonglin Gu, Xiaoyu Gao, Yanyu Shen, **Zaixing Sun**, and Hejiao Huang, “Virtual Machine Placement for Minimizing Image Retrieval Cost and Communication Cost in Cloud Data Center,” *IEEE Transactions on Network and Service Management*, vol. 21, no. 2, pp. 1998–2011, 2024, [doi:10.1109/TNSM.2024.3351148](https://doi.org/10.1109/TNSM.2024.3351148).
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
+1. **Zaixing Sun**, Yi Mei, Fangfang Zhang, Hejiao Huang, Chonglin Gu, and Mengjie Zhang, “Multi-Tree Genetic Programming Hyper-Heuristic for Dynamic Flexible Workflow Scheduling in Multi-Clouds,” *IEEE Transactions on Services Computing*, vol. 17, no. 5, pp. 2687–2703, Sep. 2024, [doi:10.1109/TSC.2024.3394691](https://doi.org/10.1109/TSC.2024.3394691).
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+1. **Zaixing Sun**, Zhikai Li, Chonglin Gu, and Hejiao Huang, “An Energy-Efficient Scheduling Method for Real-Time Multi-workflow in Container Cloud,” in *Proceedings of the 16th Annual International Conference on Combinatorial Optimization and Applications*, vol. 14461, LNCS, Springer, 2024, pp. 168–181, [doi:10.1007/978-3-031-49611-0_12](https://doi.org/10.1007/978-3-031-49611-0_12).
+
+
+1. **Zaixing Sun**, Hejiao Huang, Zhikai Li, Chonglin Gu, Ruitao Xie, and Bin Qian, “Efficient, economical and energy-saving multi-workflow scheduling in hybrid cloud,” *Expert Systems with Applications*, vol. 228, p. 120401, Oct. 2023, [doi:10.1016/j.eswa.2023.120401](https://doi.org/10.1016/j.eswa.2023.120401).
+
+1. **Zaixing Sun**, Boyu Zhang, Chonglin Gu, Ruitao Xie, Bin Qian, and Hejiao Huang, “ET2FA: A Hybrid Heuristic Algorithm for Deadline-Constrained Workflow Scheduling in Cloud,” *IEEE Transactions on Services Computing*, vol. 16, no. 3, pp. 1807–1821, 2023, [doi:10.1109/TSC.2022.3196620](https://doi.org/10.1109/TSC.2022.3196620).
+
+1. Honglin Zhang, Yaohua Wu, and **Zaixing Sun**, “EHEFT-R: multi-objective task scheduling scheme in cloud computing,” *Complex & Intelligent Systems*, vol. 8, no. 6, pp. 4475–4482, Dec. 2022, [doi:10.1007/s40747-021-00479-7](https://doi.org/10.1007/s40747-021-00479-7).
+
+1. **Zaixing Sun**, Chonglin Gu, Hejiao Huang, and Honglin Zhang, “T2FA: A Heuristic Algorithm for Deadline-Constrained Workflow Scheduling in Cloud with Multicore Resource,” in *2021 IEEE 14th International Conference on Cloud Computing (CLOUD)*, IEEE, Sep. 2021, pp. 345–354, [doi:10.1109/CLOUD53861.2021.00048](https://doi.org/10.1109/CLOUD53861.2021.00048).
+
+1. **Zaixing Sun**, Bin Qian, Rong Hu, Ziqi Zhang, and Changsheng Zhang, “Flower Pollination Algorithm Based on Block Structure Properties for Reentrant Job Shop Scheduling Problem,” *Journal of Mechanical Engineering*, vol. 55, no. 16, pp. 220–232, Aug. 2019, [doi:10.3901/JME.2019.16.220](https://doi.org/10.3901/JME.2019.16.220).
+
+1. **Zai Xing Sun**, Rong Hu, Bin Qian, Bo Liu, and Guo Lin Che, “Salp Swarm Algorithm Based on Blocks on Critical Path for Reentrant Job Shop Scheduling Problems,” in *Lecture Notes in Computer Science*, 2018, pp. 638–648, [doi:10.1007/978-3-319-95930-6_64](https://doi.org/10.1007/978-3-319-95930-6_64).
+
+1. Chao Deng, Bin Qian, Rong Hu, Ling Wang, and **Zai-Xing Sun**, “Rule-based hybrid EDA for three-stage assembly integrated scheduling problem with job batches transportation,” *Control and Decision*, vol. 35, no. 10, pp. 2507–2513, 2020, [doi:10.13195/j.kzyjc.2019.0307](https://doi.org/10.13195/j.kzyjc.2019.0307).
+
+1. Hong Lin Zhang, Bin Qian, **Zai Xing Sun**, Rong Hu, Bo Liu, and Ning Guo, “Single-machine Green Scheduling to Minimize Total Flow Time and Carbon Emission,” in *Lecture Notes in Computer Science*, 2018, pp. 670–678, [doi:10.1007/978-3-319-95930-6_67](https://doi.org/10.1007/978-3-319-95930-6_67).
+
+
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
