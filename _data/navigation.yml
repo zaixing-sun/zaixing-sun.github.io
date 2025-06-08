@@ -1,7 +1,7 @@
 # main links links
 main:
-  - title: "Homepage"
-    url: "/#about-me"
+  # - title: "Homepage"
+  #   url: "/#about-me"
 
   - title: "Educations"
     url: "/#-educations"
