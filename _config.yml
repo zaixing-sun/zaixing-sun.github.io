@@ -9,15 +9,15 @@
 title                    : "Zaixing Sun's Homepage"
 description              : "This is the academic homepage of Dr. Sun."
 repository               : "zaixing-sun/zaixing-sun.github.io"
-google_scholar_stats_use_cdn : false
+google_scholar_stats_use_cdn : true
 
 # google analytics
 google_analytics_id      : "G-F6CHBHPE1X" # get google_analytics_id from https://analytics.google.com/analytics/
 microsoft_clarity_id        : "jeusgk34z0"
 
 # SEO Related
-google_site_verification :  # fQZQD0EwLaSOrp3EbALt2rjxHEY9pUvWuh1fS96xgNk # get google_site_verification from https://search.google.com/search-console/about
-bing_site_verification   : # 56D1B3DBCF345410DA9431AFE01788E7 # get bing_site_verification from https://www.bing.com/webmasters/about
+google_site_verification : google73f8d9499ac05f83 # fQZQD0EwLaSOrp3EbALt2rjxHEY9pUvWuh1fS96xgNk # get google_site_verification from https://search.google.com/search-console/about
+bing_site_verification   : 478E5CB8E5CDC15B46732F1C61616C97 # 56D1B3DBCF345410DA9431AFE01788E7 # get bing_site_verification from https://www.bing.com/webmasters/about
 baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
 
 # Site Author
