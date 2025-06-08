@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zaixing Sun's Homepage"
-description              : "This is the academic homepage of Dr. Sun."
+description              : # "This is the academic homepage of Dr. Sun."
 repository               : "zaixing-sun/zaixing-sun.github.io"
 google_scholar_stats_use_cdn : true
 
