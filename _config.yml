@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zaixing Sun's Homepage"
-description              : # "This is the academic homepage of Dr. Sun."
+description              : "Peng Cheng Laboratory" # "This is the academic homepage of Dr. Sun."
 repository               : "zaixing-sun/zaixing-sun.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -24,7 +24,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Zaixing Sun"
   avatar           : "images/zaixing-sun.jpg"
-  bio              : "Peng Cheng Laboratory"
+  bio              : "Post-doctoral Fellow"
   location         : "Shenzhen, China"
   employer         : #"Hefei General Machinery Research Institute"
   pubmed           : 
