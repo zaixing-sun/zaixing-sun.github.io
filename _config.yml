@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zaixing Sun's Homepage"
-description              : "Peng Cheng Laboratory" # "This is the academic homepage of Dr. Sun."
+description              : # "Peng Cheng Laboratory" # "This is the academic homepage of Dr. Sun."
 repository               : "zaixing-sun/zaixing-sun.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -26,7 +26,7 @@ author:
   avatar           : "images/zaixing-sun.jpg"
   bio              : "Post-doctoral Fellow"
   location         : "Shenzhen, China"
-  employer         : #"Hefei General Machinery Research Institute"
+  employer         : "Peng Cheng Laboratory"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=t04r-hYAAAAJ&hl"
   email            : "zaixing.sun@micc.hitsz.edu.cn"
