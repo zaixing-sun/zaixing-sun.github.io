@@ -43,7 +43,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet 
 
 1. **Zaixing Sun**, Bin Qian, Rong Hu, Ziqi Zhang, and Changsheng Zhang, “Flower Pollination Algorithm Based on Block Structure Properties for Reentrant Job Shop Scheduling Problem,” *Journal of Mechanical Engineering*, vol. 55, no. 16, pp. 220–232, Aug. 2019, [doi:10.3901/JME.2019.16.220](https://doi.org/10.3901/JME.2019.16.220).
 
-1. **Zaixing Sun**, Rong Hu, Bin Qian, Bo Liu, and Guo Lin Che, “Salp Swarm Algorithm Based on Blocks on Critical Path for Reentrant Job Shop Scheduling Problems,” in *Lecture Notes in Computer Science*, 2018, pp. 638–648, [doi:10.1007/978-3-319-95930-6_64](https://doi.org/10.1007/978-3-319-95930-6_64).
+1. **Zaixing Sun**, Rong Hu, Bin Qian, Bo Liu, and Guo Lin Che, “Salp Swarm Algorithm Based on Blocks on Critical Path for Reentrant Job Shop Scheduling Problems,” in *Proceedings of the International Conference on Intelligent Computing*, 2018, pp. 638–648, [doi:10.1007/978-3-319-95930-6_64](https://doi.org/10.1007/978-3-319-95930-6_64).
 
 1. Yanyu Shen, Chonglin Gu, Xin Chen, Xiaoyu Gao, **Zaixing Sun**, and Hejiao Huang, “Elastic Scaling of Resources for Energy-efficient Container Cloud Using Reinforcement Learning,” *IEEE Transactions on Green Communications and Networking*, pp. 1–14, 2025, [doi: 10.1109/TGCN.2025.3552594](https://doi.org/10.1109/TGCN.2025.3552594).
 
@@ -53,7 +53,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet 
 
 1. Chao Deng, Bin Qian, Rong Hu, Ling Wang, and **Zaixing Sun**, “Rule-based hybrid EDA for three-stage assembly integrated scheduling problem with job batches transportation,” *Control and Decision*, vol. 35, no. 10, pp. 2507–2513, 2020, [doi:10.13195/j.kzyjc.2019.0307](https://doi.org/10.13195/j.kzyjc.2019.0307).
 
-1. Hong Lin Zhang, Bin Qian, **Zaixing Sun**, Rong Hu, Bo Liu, and Ning Guo, “Single-machine Green Scheduling to Minimize Total Flow Time and Carbon Emission,” in *Lecture Notes in Computer Science*, 2018, pp. 670–678, [doi:10.1007/978-3-319-95930-6_67](https://doi.org/10.1007/978-3-319-95930-6_67).
+1. Hong Lin Zhang, Bin Qian, **Zaixing Sun**, Rong Hu, Bo Liu, and Ning Guo, “Single-machine Green Scheduling to Minimize Total Flow Time and Carbon Emission,” in *Proceedings of the International Conference on Intelligent Computing*, 2018, pp. 670–678, [doi:10.1007/978-3-319-95930-6_67](https://doi.org/10.1007/978-3-319-95930-6_67).
 
 
 
