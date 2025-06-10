@@ -70,13 +70,13 @@ My research interest includes:
 # 📖 Educations
 
 **2020.03-2024.11**&nbsp;&nbsp;&nbsp;&nbsp;Ph.D in Computer Science and Technology&nbsp;&nbsp;&nbsp;&nbsp;Harbin Institute of Technology, Shenzhen, China<br>
-&nbsp;&nbsp;&nbsp;&nbsp;*Supervisor: [Prof. Hejiao Huang](http://faculty.hitsz.edu.cn/huanghejiao), [Dr. Chonglin Gu](http://faculty.hitsz.edu.cn/guchonglin)*
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;*Supervisor: [Prof. Hejiao Huang](http://faculty.hitsz.edu.cn/huanghejiao), [Dr. Chonglin Gu](http://faculty.hitsz.edu.cn/guchonglin)*
 
 **2023.04-2024.04**&nbsp;&nbsp;&nbsp;&nbsp;Visiting Student in Computer Science&nbsp;&nbsp;&nbsp;&nbsp;Victoria University of Wellington, New Zealand<br>
-&nbsp;&nbsp;&nbsp;&nbsp;*Supervisor: [A/Prof. Yi Mei](https://meiyi1986.github.io/), [Dr. Fangfang Zhang](https://fangfang-zhang.github.io/), [Prof. Mengjie Zhang](https://homepages.ecs.vuw.ac.nz/~mengjie/)*
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;*Supervisor: [A/Prof. Yi Mei](https://meiyi1986.github.io/), [Dr. Fangfang Zhang](https://fangfang-zhang.github.io/), [Prof. Mengjie Zhang](https://homepages.ecs.vuw.ac.nz/~mengjie/)*
 
 **2016.09-2019.06**&nbsp;&nbsp;&nbsp;&nbsp;M.Eng in Control Engeering&nbsp;&nbsp;&nbsp;&nbsp;Kunming University of Science and Technology, China<br>
-&nbsp;&nbsp;&nbsp;&nbsp;*Supervisor: [Prof. Bin Qian](https://xzy.kmust.edu.cn/info/1159/1394.htm), [Prof. Rong Hu](https://xzy.kmust.edu.cn/info/1129/1395.htm)*
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;*Supervisor: [Prof. Bin Qian](https://xzy.kmust.edu.cn/info/1159/1394.htm), [Prof. Rong Hu](https://xzy.kmust.edu.cn/info/1129/1395.htm)*
 
 **2012.09-2016.06**&nbsp;&nbsp;&nbsp;&nbsp;B.Eng in Electrical Engineering and Automation&nbsp;&nbsp;&nbsp;&nbsp;Luoyang Normal University, China
 
