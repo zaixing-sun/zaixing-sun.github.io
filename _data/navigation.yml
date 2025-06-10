@@ -3,11 +3,11 @@ main:
   # - title: "Homepage"
   #   url: "/#about-me"
 
-  - title: "Educations"
-    url: "/#-educations"
-
   - title: "Publications"
     url: "/#-publications"
+
+  - title: "Educations"
+    url: "/#-educations"
 
   # - title: "Publications"
   #   url: "/#-publications"
