@@ -69,13 +69,26 @@ My research interest includes:
 
 # 📖 Educations
 
-
-| | |
-| :--- | :--- |
-| **2020.03-2024.11** | **Ph.D in Computer Science and Technology**&nbsp;&nbsp;&nbsp;&nbsp;*Harbin Institute of Technology, Shenzhen, China*<br>*Supervisor: [Prof. Hejiao Huang](http.faculty.hitsz.edu.cn/huanghejiao), [Dr. Chonglin Gu](http.faculty.hitsz.edu.cn/guchonglin)* |
-| **2023.04-2024.04** | **Visiting Student in Computer Science**&nbsp;&nbsp;&nbsp;&nbsp;*Victoria University of Wellington, New Zealand*<br>*Supervisor: [A/Prof. Yi Mei](https://meiyi1986.github.io/), [Dr. Fangfang Zhang](https://fangfang-zhang.github.io/), [Prof. Mengjie Zhang](https://homepages.ecs.vuw.ac.nz/~mengjie/)* |
-| **2016.09-2019.06** | **M.Eng in Control Engeering**&nbsp;&nbsp;&nbsp;&nbsp;*Kunming University of Science and Technology, China*<br>*Supervisor: [Prof. Bin Qian](https://xzy.kmust.edu.cn/info/1159/1394.htm), [Prof. Rong Hu](https://xzy.kmust.edu.cn/info/1129/1395.htm)* |
-| **2012.09-2016.06** | **B.Eng in Electrical Engineering and Automation**&nbsp;&nbsp;&nbsp;&nbsp;*Luoyang Normal University, China* |
+<table>
+<tbody>
+  <tr>
+    <td style="width:170px; vertical-align: top;"><strong>2020.03-2024.11</strong></td>
+    <td><strong>Ph.D in Computer Science and Technology</strong>&nbsp;&nbsp;&nbsp;&nbsp;<em>Harbin Institute of Technology, Shenzhen, China</em><br><em>Supervisor: <a href="http://faculty.hitsz.edu.cn/huanghejiao">Prof. Hejiao Huang</a>, <a href="http://faculty.hitsz.edu.cn/guchonglin">Dr. Chonglin Gu</a></em></td>
+  </tr>
+  <tr>
+    <td style="vertical-align: top;"><strong>2023.04-2024.04</strong></td>
+    <td><strong>Visiting Student in Computer Science</strong>&nbsp;&nbsp;&nbsp;&nbsp;<em>Victoria University of Wellington, New Zealand</em><br><em>Supervisor: <a href="https://meiyi1986.github.io/">A/Prof. Yi Mei</a>, <a href="https://fangfang-zhang.github.io/">Dr. Fangfang Zhang</a>, <a href="https://homepages.ecs.vuw.ac.nz/~mengjie/">Prof. Mengjie Zhang</a></em></td>
+  </tr>
+  <tr>
+    <td style="vertical-align: top;"><strong>2016.09-2019.06</strong></td>
+    <td><strong>M.Eng in Control Engeering</strong>&nbsp;&nbsp;&nbsp;&nbsp;<em>Kunming University of Science and Technology, China</em><br><em>Supervisor: <a href="https://xzy.kmust.edu.cn/info/1159/1394.htm">Prof. Bin Qian</a>, <a href="https://xzy.kmust.edu.cn/info/1129/1395.htm">Prof. Rong Hu</a></em></td>
+  </tr>
+  <tr>
+    <td style="vertical-align: top;"><strong>2012.09-2016.06</strong></td>
+    <td><strong>B.Eng in Electrical Engineering and Automation</strong>&nbsp;&nbsp;&nbsp;&nbsp;<em>Luoyang Normal University, China</em></td>
+  </tr>
+</tbody>
+</table>
 
 <!-- - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
