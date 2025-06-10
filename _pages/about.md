@@ -72,20 +72,20 @@ My research interest includes:
 <table>
 <tbody>
   <tr>
-    <td style="width:170px; vertical-align: top;"><strong>2020.03-2024.11</strong></td>
-    <td><strong>Ph.D in Computer Science and Technology</strong>&nbsp;&nbsp;&nbsp;&nbsp;<em>Harbin Institute of Technology, Shenzhen, China</em><br><em>Supervisor: <a href="http://faculty.hitsz.edu.cn/huanghejiao">Prof. Hejiao Huang</a>, <a href="http://faculty.hitsz.edu.cn/guchonglin">Dr. Chonglin Gu</a></em></td>
+    <td style="width:160px; vertical-align: top; padding: 4px 8px;"><strong>2020.03-2024.11</strong></td>
+    <td style="vertical-align: top; padding: 4px 8px;"><strong>Ph.D in Computer Science and Technology</strong>&nbsp;&nbsp;<em>Harbin Institute of Technology, Shenzhen, China</em><br><em>Supervisors: <a href="http://faculty.hitsz.edu.cn/huanghejiao">Prof. Hejiao Huang</a>, <a href="http://faculty.hitsz.edu.cn/guchonglin">Dr. Chonglin Gu</a></em></td>
   </tr>
   <tr>
-    <td style="vertical-align: top;"><strong>2023.04-2024.04</strong></td>
-    <td><strong>Visiting Student in Computer Science</strong>&nbsp;&nbsp;&nbsp;&nbsp;<em>Victoria University of Wellington, New Zealand</em><br><em>Supervisor: <a href="https://meiyi1986.github.io/">A/Prof. Yi Mei</a>, <a href="https://fangfang-zhang.github.io/">Dr. Fangfang Zhang</a>, <a href="https://homepages.ecs.vuw.ac.nz/~mengjie/">Prof. Mengjie Zhang</a></em></td>
+    <td style="vertical-align: top; padding: 4px 8px;"><strong>2023.04-2024.04</strong></td>
+    <td style="vertical-align: top; padding: 4px 8px;"><strong>Visiting Student in Computer Science</strong>&nbsp;&nbsp;<em>Victoria University of Wellington, New Zealand</em><br><em>Supervisors: <a href="https://meiyi1986.github.io/">A/Prof. Yi Mei</a>, <a href="https://fangfang-zhang.github.io/">Dr. Fangfang Zhang</a>, <a href="https://homepages.ecs.vuw.ac.nz/~mengjie/">Prof. Mengjie Zhang</a></em></td>
   </tr>
   <tr>
-    <td style="vertical-align: top;"><strong>2016.09-2019.06</strong></td>
-    <td><strong>M.Eng in Control Engeering</strong>&nbsp;&nbsp;&nbsp;&nbsp;<em>Kunming University of Science and Technology, China</em><br><em>Supervisor: <a href="https://xzy.kmust.edu.cn/info/1159/1394.htm">Prof. Bin Qian</a>, <a href="https://xzy.kmust.edu.cn/info/1129/1395.htm">Prof. Rong Hu</a></em></td>
+    <td style="vertical-align: top; padding: 4px 8px;"><strong>2016.09-2019.06</strong></td>
+    <td style="vertical-align: top; padding: 4px 8px;"><strong>M.Eng in Control Engeering</strong>&nbsp;&nbsp;<em>Kunming University of Science and Technology, China</em><br><em>Supervisors: <a href="https://xzy.kmust.edu.cn/info/1159/1394.htm">Prof. Bin Qian</a>, <a href="https://xzy.kmust.edu.cn/info/1129/1395.htm">Prof. Rong Hu</a></em></td>
   </tr>
   <tr>
-    <td style="vertical-align: top;"><strong>2012.09-2016.06</strong></td>
-    <td><strong>B.Eng in Electrical Engineering and Automation</strong>&nbsp;&nbsp;&nbsp;&nbsp;<em>Luoyang Normal University, China</em></td>
+    <td style="vertical-align: top; padding: 4px 8px;"><strong>2012.09-2016.06</strong></td>
+    <td style="vertical-align: top; padding: 4px 8px;"><strong>B.Eng in Electrical Engineering and Automation</strong>&nbsp;&nbsp;<em>Luoyang Normal University, China</em></td>
   </tr>
 </tbody>
 </table>
@@ -93,40 +93,6 @@ My research interest includes:
 <!-- - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
-# 📖 Educations
-  courses:
-    - course: Ph.D in Computer Science and Technology
-      institution: Harbin Institute of Technology, Shenzhen, China
-      year: 2020.03-present 
-      # supervisor:  "Prof. Hejiao Huang, Dr. Chonglin Gu"
-      supervisor:  
-        - name: Prof. Hejiao Huang,
-          url: http://faculty.hitsz.edu.cn/huanghejiao
-        - name: Dr. Chonglin Gu
-          url: http://faculty.hitsz.edu.cn/guchonglin   
-    - course: Visiting Student in Computer Science
-      institution: Victoria University of Wellington, New Zealand
-      year: 2023.04-2024.04 
-      # supervisor: "Prof. Mengjie Zhang, A/Prof. Yi Mei, Dr. Fangfang Zhang"
-      supervisor:  
-        - name: A/Prof. Yi Mei,
-          url: https://meiyi1986.github.io/
-        - name: Dr. Fangfang Zhang,
-          url: https://fangfang-zhang.github.io/
-        - name: Prof. Mengjie Zhang
-          url: https://homepages.ecs.vuw.ac.nz/~mengjie/                 
-    - course: M.Eng in Control Engeering
-      institution: Kunming University of Science and Technology, China
-      year: 2016.09-2019.06
-      # supervisor: "Prof. Bin Qian, Prof. Rong Hu"   
-      supervisor:  
-        - name: Prof. Bin Qian,
-          url: https://xzy.kmust.edu.cn/info/1159/1394.htm
-        - name: Prof. Rong Hu
-          url: https://xzy.kmust.edu.cn/info/1129/1395.htm   
-    - course: B.Eng in Electrical Engineering and Automation
-      institution: Luoyang Normal University, China
-      year: 2012.09-2016.06      
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
