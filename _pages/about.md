@@ -72,20 +72,20 @@ My research interest includes:
 <table>
 <tbody>
   <tr>
-    <td style="width:160px; vertical-align: top; padding: 4px 8px;"><strong>2020.03-2024.11</strong></td>
-    <td style="vertical-align: top; padding: 4px 8px;"><strong>Ph.D in Computer Science and Technology</strong>&nbsp;&nbsp;<em>Harbin Institute of Technology, Shenzhen, China</em><br><em>Supervisors: <a href="http://faculty.hitsz.edu.cn/huanghejiao">Prof. Hejiao Huang</a>, <a href="http://faculty.hitsz.edu.cn/guchonglin">Dr. Chonglin Gu</a></em></td>
+    <td style="width:130px; vertical-align: top; padding: 4px 5px;">2020.03-2024.11</td>
+    <td style="vertical-align: top; padding: 4px 5px;">Ph.D in Computer Science and Technology&nbsp;&nbsp;<em>Harbin Institute of Technology, Shenzhen, China</em><br><em>Supervisors: <a href="http://faculty.hitsz.edu.cn/huanghejiao">Prof. Hejiao Huang</a>, <a href="http://faculty.hitsz.edu.cn/guchonglin">Dr. Chonglin Gu</a></em></td>
   </tr>
   <tr>
-    <td style="vertical-align: top; padding: 4px 8px;"><strong>2023.04-2024.04</strong></td>
-    <td style="vertical-align: top; padding: 4px 8px;"><strong>Visiting Student in Computer Science</strong>&nbsp;&nbsp;<em>Victoria University of Wellington, New Zealand</em><br><em>Supervisors: <a href="https://meiyi1986.github.io/">A/Prof. Yi Mei</a>, <a href="https://fangfang-zhang.github.io/">Dr. Fangfang Zhang</a>, <a href="https://homepages.ecs.vuw.ac.nz/~mengjie/">Prof. Mengjie Zhang</a></em></td>
+    <td style="vertical-align: top; padding: 4px 5px;">2023.04-2024.04</td>
+    <td style="vertical-align: top; padding: 4px 5px;">Visiting Student in Computer Science&nbsp;&nbsp;<em>Victoria University of Wellington, New Zealand</em><br><em>Supervisors: <a href="https://meiyi1986.github.io/">A/Prof. Yi Mei</a>, <a href="https://fangfang-zhang.github.io/">Dr. Fangfang Zhang</a>, <a href="https://homepages.ecs.vuw.ac.nz/~mengjie/">Prof. Mengjie Zhang</a></em></td>
   </tr>
   <tr>
-    <td style="vertical-align: top; padding: 4px 8px;"><strong>2016.09-2019.06</strong></td>
-    <td style="vertical-align: top; padding: 4px 8px;"><strong>M.Eng in Control Engeering</strong>&nbsp;&nbsp;<em>Kunming University of Science and Technology, China</em><br><em>Supervisors: <a href="https://xzy.kmust.edu.cn/info/1159/1394.htm">Prof. Bin Qian</a>, <a href="https://xzy.kmust.edu.cn/info/1129/1395.htm">Prof. Rong Hu</a></em></td>
+    <td style="vertical-align: top; padding: 4px 5px;">2016.09-2019.06</td>
+    <td style="vertical-align: top; padding: 4px 5px;">M.Eng in Control Engeering&nbsp;&nbsp;<em>Kunming University of Science and Technology, China</em><br><em>Supervisors: <a href="https://xzy.kmust.edu.cn/info/1159/1394.htm">Prof. Bin Qian</a>, <a href="https://xzy.kmust.edu.cn/info/1159/3305.htm">Prof. Rong Hu</a></em></td>
   </tr>
   <tr>
-    <td style="vertical-align: top; padding: 4px 8px;"><strong>2012.09-2016.06</strong></td>
-    <td style="vertical-align: top; padding: 4px 8px;"><strong>B.Eng in Electrical Engineering and Automation</strong>&nbsp;&nbsp;<em>Luoyang Normal University, China</em></td>
+    <td style="vertical-align: top; padding: 4px 5px;">2012.09-2016.06</td>
+    <td style="vertical-align: top; padding: 4px 5px;">B.Eng in Electrical Engineering and Automation&nbsp;&nbsp;<em>Luoyang Normal University, China</em></td>
   </tr>
 </tbody>
 </table>
