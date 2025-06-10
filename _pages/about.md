@@ -19,6 +19,12 @@ redirect_from:
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
 
+My research interest includes:
+  - Cloud computing
+  - Intelligent optimization and scheduling
+  - Evolutionary computation, particularly genetic programming
+  - Workflow scheduling / Job shop scheduling
+  - Heuristic/Meta-Heuristic/Hyper-Heuristic learning/optimisation
 <!-- My research interest includes neural machine translation and computer vision. I have published more than ** papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=t04r-hYAAAAJ'>google scholar citations <strong><span id='total_cit'>**+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=t04r-hYAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 # 🔥 News
@@ -62,8 +68,53 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+**2020.03-2024.11**&nbsp;&nbsp;&nbsp;&nbsp;Ph.D in Computer Science and Technology&nbsp;&nbsp;&nbsp;&nbsp;Harbin Institute of Technology, Shenzhen, China
+&nbsp;&nbsp;&nbsp;&nbsp;*Supervisor: [Prof. Hejiao Huang](http://faculty.hitsz.edu.cn/huanghejiao), [Dr. Chonglin Gu](http://faculty.hitsz.edu.cn/guchonglin)*
+
+**2023.04-2024.04**&nbsp;&nbsp;&nbsp;&nbsp;Visiting Student in Computer Science&nbsp;&nbsp;&nbsp;&nbsp;Victoria University of Wellington, New Zealand
+&nbsp;&nbsp;&nbsp;&nbsp;*Supervisor: [A/Prof. Yi Mei](https://meiyi1986.github.io/), [Dr. Fangfang Zhang](https://fangfang-zhang.github.io/), [Prof. Mengjie Zhang](https://homepages.ecs.vuw.ac.nz/~mengjie/)*
+
+**2016.09-2019.06**&nbsp;&nbsp;&nbsp;&nbsp;M.Eng in Control Engeering&nbsp;&nbsp;&nbsp;&nbsp;Kunming University of Science and Technology, China
+&nbsp;&nbsp;&nbsp;&nbsp;*Supervisor: [Prof. Bin Qian](https://xzy.kmust.edu.cn/info/1159/1394.htm), [Prof. Rong Hu](https://xzy.kmust.edu.cn/info/1129/1395.htm)*
+
+**2012.09-2016.06**&nbsp;&nbsp;&nbsp;&nbsp;B.Eng in Electrical Engineering and Automation&nbsp;&nbsp;&nbsp;&nbsp;Luoyang Normal University, China
+<!-- - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+
+# 📖 Educations
+  courses:
+    - course: Ph.D in Computer Science and Technology
+      institution: Harbin Institute of Technology, Shenzhen, China
+      year: 2020.03-present 
+      # supervisor:  "Prof. Hejiao Huang, Dr. Chonglin Gu"
+      supervisor:  
+        - name: Prof. Hejiao Huang,
+          url: http://faculty.hitsz.edu.cn/huanghejiao
+        - name: Dr. Chonglin Gu
+          url: http://faculty.hitsz.edu.cn/guchonglin   
+    - course: Visiting Student in Computer Science
+      institution: Victoria University of Wellington, New Zealand
+      year: 2023.04-2024.04 
+      # supervisor: "Prof. Mengjie Zhang, A/Prof. Yi Mei, Dr. Fangfang Zhang"
+      supervisor:  
+        - name: A/Prof. Yi Mei,
+          url: https://meiyi1986.github.io/
+        - name: Dr. Fangfang Zhang,
+          url: https://fangfang-zhang.github.io/
+        - name: Prof. Mengjie Zhang
+          url: https://homepages.ecs.vuw.ac.nz/~mengjie/                 
+    - course: M.Eng in Control Engeering
+      institution: Kunming University of Science and Technology, China
+      year: 2016.09-2019.06
+      # supervisor: "Prof. Bin Qian, Prof. Rong Hu"   
+      supervisor:  
+        - name: Prof. Bin Qian,
+          url: https://xzy.kmust.edu.cn/info/1159/1394.htm
+        - name: Prof. Rong Hu
+          url: https://xzy.kmust.edu.cn/info/1129/1395.htm   
+    - course: B.Eng in Electrical Engineering and Automation
+      institution: Luoyang Normal University, China
+      year: 2012.09-2016.06      
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
