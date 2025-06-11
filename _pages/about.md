@@ -37,7 +37,7 @@ My research interest includes:
 
 1. **Zaixing Sun**, Fangfang Zhang, Yi Mei, Hejiao Huang, Chonglin Gu, Bin Qian, and Mengjie Zhang, “Evolving Scheduling Heuristics for Energy-Efficient Dynamic Workflow Scheduling in Cloud via Genetic Programming Hyper-Heuristics,” in *Proceedings of the International Conference on Intelligent Computing*, 2024, pp. 169–182, [doi:10.1007/978-981-97-5578-3_14](https://doi.org/10.1007/978-981-97-5578-3_14).
 
-1. **Zaixing Sun**, Yi Mei, Fangfang Zhang, Hejiao Huang, Chonglin Gu, and Mengjie Zhang, “Multi-Tree Genetic Programming Hyper-Heuristic for Dynamic Flexible Workflow Scheduling in Multi-Clouds,” *IEEE Transactions on Services Computing*, vol. 17, no. 5, pp. 2687–2703, Sep. 2024, [doi:10.1109/TSC.2024.3394691](https://doi.org/10.1109/TSC.2024.3394691).
+1. **Zaixing Sun**, Yi Mei, Fangfang Zhang, Hejiao Huang, Chonglin Gu, and Mengjie Zhang, “Multi-Tree Genetic Programming Hyper-Heuristic for Dynamic Flexible Workflow Scheduling in Multi-Clouds,” *IEEE Transactions on Services Computing*, vol. 17, no. 5, pp. 2687–2703, Sep. 2024, [doi:10.1109/TSC.2024.3394691](https://doi.org/10.1109/TSC.2024.3394691).[[pdf]](/publications/Sun2024-TSC.pdf)
 
 1. **Zaixing Sun**, Zhikai Li, Chonglin Gu, and Hejiao Huang, “An Energy-Efficient Scheduling Method for Real-Time Multi-workflow in Container Cloud,” in *Proceedings of the 16th Annual International Conference on Combinatorial Optimization and Applications*, vol. 14461, LNCS, Springer, 2024, pp. 168–181, [doi:10.1007/978-3-031-49611-0_12](https://doi.org/10.1007/978-3-031-49611-0_12).
 
