@@ -37,11 +37,28 @@ jobs:
           fetch-depth: 0  # Shallow clones should be disabled for a better experience
       - name: Setup Ruby
         # https://github.com/ruby/setup-ruby/releases/tag/v1.207.0
-        uses: ruby/setup-ruby@4a9ddd6f338a97768b8006bf671dfbad383215f4
+        uses: ruby/setup-ruby@1
         with:
           ruby-version: '3.5' # Not needed with a .ruby-version file
           bundler-cache: true # runs 'bundle install' and caches installed gems automatically
           cache-version: 0 # Increment this number if you need to re-download cached gems
+      - name: Cache bundle
+          uses: actions/cache@v3
+          with:
+              path: vendor/bundle
+              key: ${{ runner.os }}-bundle-${{ hashFiles('**/Gemfile.lock') }}
+              restore-keys: |
+                ${{ runner.os }}-bundle-
+          
+      - name: Install Bundler
+          run: gem install bundler
+          
+      - name: Configure bundler path
+          run: bundle config set path 'vendor/bundle'
+            
+      - name: Install dependencies
+          run: bundle install
+
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
