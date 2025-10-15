@@ -28,6 +28,7 @@ His research interests include:
   - Evolutionary computation, particularly genetic programming
   - Workflow scheduling / Job shop scheduling
   - Heuristic/Meta-Heuristic/Hyper-Heuristic learning/optimisation
+
 He welcomes inquiries and collaboration via email at zaixing.sun@micc.hitsz.edu.cn.
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than ** papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=t04r-hYAAAAJ'>google scholar citations <strong><span id='total_cit'>**+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=t04r-hYAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
