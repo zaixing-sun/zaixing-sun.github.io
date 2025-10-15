@@ -22,13 +22,14 @@ Zaixing Sun is currently a Post-Doctoral Fellow at Peng Cheng Laboratory.
 He received the B.E. degree in Electrical Engineering and Automation from Luoyang Normal University, Luoyang, China, in 2016, M.E. degree in Control Engineering from Kunming University of Science and Technology, Kunming, China, in 2019, and the Ph.D. degree in Computer Science and Technology from Harbin Institute of Technology, Shenzhen, China, in 2024.
 In 2023, he was a visiting student with the Evolutionary Computation Research Group, Centre for Data Science and Artificial Intelligence & School of Engineering and Computer Science, Victoria University of Wellington, Wellington, New Zealand.
 
-His research interests include:
+<!-- His research interests include:
   - Cloud computing
   - Intelligent optimization and scheduling
   - Evolutionary computation, particularly genetic programming
   - Workflow scheduling / Job shop scheduling
-  - Heuristic/Meta-Heuristic/Hyper-Heuristic learning/optimisation
-
+  - Heuristic/Meta-Heuristic/Hyper-Heuristic learning/optimisation -->
+His research focuses on solving complex scheduling and resource allocation problems in domains such as cloud computing and smart manufacturing.
+His approach focuses on Evolutionary Machine Learning, primarily leveraging Genetic Programming and other metaheuristic strategies to develop intelligent optimization solutions.
 He welcomes inquiries and collaboration via email at zaixing.sun@micc.hitsz.edu.cn.
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than ** papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=t04r-hYAAAAJ'>google scholar citations <strong><span id='total_cit'>**+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=t04r-hYAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
