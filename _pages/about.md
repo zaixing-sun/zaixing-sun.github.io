@@ -19,8 +19,11 @@ redirect_from:
 
 <!-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis. -->
 Zaixing Sun is currently a Post-Doctoral Fellow at Peng Cheng Laboratory.
-He received the B.E. degree in Electrical Engineering and Automation from Luoyang Normal University, Luoyang, China, in 2016, M.E. degree in Control Engineering from Kunming University of Science and Technology, Kunming, China, in 2019, and the Ph.D. degree in Computer Science and Technology from Harbin Institute of Technology, Shenzhen, China, in 2024.
-In 2023, he was a visiting student with the Evolutionary Computation Research Group, Centre for Data Science and Artificial Intelligence & School of Engineering and Computer Science, Victoria University of Wellington, Wellington, New Zealand.
+He received the B.E. degree in Electrical Engineering and Automation from Luoyang Normal University, Luoyang, China, in 2016,
+the M.E. degree in Control Engineering from Kunming University of Science and Technology, Kunming, China, in 2019,
+and the Ph.D. degree in Computer Science and Technology from Harbin Institute of Technology, Shenzhen, China, in 2024.
+In 2023, he was a visiting student with the Evolutionary Computation Research Group,
+Centre for Data Science and Artificial Intelligence & School of Engineering and Computer Science, Victoria University of Wellington, Wellington, New Zealand.
 
 <!-- His research interests include:
   - Cloud computing
