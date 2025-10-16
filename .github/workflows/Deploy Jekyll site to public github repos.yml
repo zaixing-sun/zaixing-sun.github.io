@@ -1,0 +1,126 @@
+# ci name
+# ci 脚本名称
+name: Deploy Jekyll site to public github repos
+
+on:
+  # Runs on pushes targeting the default branch
+  # 当代码 push 到 main 分支时, 执行该脚本
+  push:
+    branches: ["main"]
+
+  # Allows you to run this workflow manually from the Actions tab
+  # 允许你 手动执行 这个脚本
+  workflow_dispatch:
+
+# Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
+# GITHUB_TOKEN 的操作权限
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# Allow one concurrent deployment
+concurrency:
+  group: "pages"
+  cancel-in-progress: true
+
+# job 执行任务, 可以有多个, 默认并行运行, 可以通过 needs 关键字来设置依赖的其他 jobs
+# step : 任务下的执行步骤, 一个job 会有多个步骤
+# 操作:  一个step 下可以执行多个操作, 通常一行脚本为一个操作
+jobs:
+  # Build job
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+      # 准备ruby 环境
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@0a29871fe2b0200a17a4497bae54fe5df0d973aa # v1.115.3
+        with:
+          ruby-version: '3.0' # Not needed with a .ruby-version file
+          bundler-cache: true # runs 'bundle install' and caches installed gems automatically
+          cache-version: 0 # Increment this number if you need to re-download cached gems
+#      - name: Setup Pages
+#        id: pages
+#        uses: actions/configure-pages@v2
+      # 打包 jekyll
+      - name: Build with Jekyll
+        # Outputs to the './_site' directory by default
+#        run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
+        run: bundle exec jekyll build --verbose
+        env:
+          JEKYLL_ENV: production
+       # 更新 打tar包
+#      - name: Upload artifact
+#        # Automatically uploads an artifact from the './_site' directory by default
+#        uses: actions/upload-pages-artifact@v1
+
+      - name: 增加外露github文件
+        working-directory: ./_site  # jekyll 默认 build 到 _site 目录，因此设置命令执行的目录为 ./_site
+        run: |  # run 后面加个 ‘|’ 然后换行可以同时执行多个命令，每行一个
+
+ 
+      - name: 部署_site到博客网站仓库
+        working-directory: ./_site
+        run: |
+          git init
+          git checkout -b main
+          git add -A
+          git -c user.name='zaixing-sun' -c user.email='zaixing.sun@micc.hitsz.edu.cn' commit -m 'anything' 
+          git push "https://${ { github.actor } }:${ { secrets.HOMEPAGE_ACCESS_TOKEN } }@github.com/zaixing-sun.github.io" HEAD:main -f -q
+
+
+
+
+# # Sample workflow for building and deploying a Jekyll site to GitHub Pages
+# name: Deploy Jekyll with GitHub Pages dependencies preinstalled
+
+# on:
+#   # Runs on pushes targeting the default branch
+#   push:
+#     branches: ["main"]
+
+#   # Allows you to run this workflow manually from the Actions tab
+#   workflow_dispatch:
+
+# # Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
+# permissions:
+#   contents: read
+#   pages: write
+#   id-token: write
+
+# # Allow only one concurrent deployment, skipping runs queued between the run in-progress and latest queued.
+# # However, do NOT cancel in-progress runs as we want to allow these production deployments to complete.
+# concurrency:
+#   group: "pages"
+#   cancel-in-progress: false
+
+# jobs:
+#   # Build job
+#   build:
+#     runs-on: ubuntu-latest
+#     steps:
+#       - name: Checkout
+#         uses: actions/checkout@v4
+#       - name: Setup Pages
+#         uses: actions/configure-pages@v5
+#       - name: Build with Jekyll
+#         uses: actions/jekyll-build-pages@v1
+#         with:
+#           source: ./
+#           destination: ./_site
+#       - name: Upload artifact
+#         uses: actions/upload-pages-artifact@v3
+
+#   # Deployment job
+#   deploy:
+#     environment:
+#       name: github-pages
+#       url: ${{ steps.deployment.outputs.page_url }}
+#     runs-on: ubuntu-latest
+#     needs: build
+#     steps:
+#       - name: Deploy to GitHub Pages
+#         id: deployment
+#         uses: actions/deploy-pages@v4
