@@ -34,41 +34,29 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v3
-      # 准备ruby 环境
-      - name: Setup Ruby
-        uses: ruby/setup-ruby@0a29871fe2b0200a17a4497bae54fe5df0d973aa # v1.115.3
         with:
-          ruby-version: '3.0' # Not needed with a .ruby-version file
-          bundler-cache: true # runs 'bundle install' and caches installed gems automatically
-          cache-version: 0 # Increment this number if you need to re-download cached gems
-#      - name: Setup Pages
-#        id: pages
-#        uses: actions/configure-pages@v2
-      # 打包 jekyll
-      - name: Build with Jekyll
-        # Outputs to the './_site' directory by default
-#        run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
-        run: bundle exec jekyll build --verbose
-        env:
-          JEKYLL_ENV: production
-       # 更新 打tar包
-#      - name: Upload artifact
-#        # Automatically uploads an artifact from the './_site' directory by default
-#        uses: actions/upload-pages-artifact@v1
+          persist-credentials: false # false 是用 personal token，true 是使用 GitHub token
+          fetch-depth: 0
 
-      - name: 增加外露github文件
-        working-directory: ./_site  # jekyll 默认 build 到 _site 目录，因此设置命令执行的目录为 ./_site
-        run: |  # run 后面加个 ‘|’ 然后换行可以同时执行多个命令，每行一个
 
- 
-      - name: 部署_site到博客网站仓库
-        working-directory: ./_site
+      - name: Commit and Push
+        working-directory: <work-dir>
         run: |
           git init
-          git checkout -b main
+          git checkout -b gh-pages
           git add -A
-          git -c user.name='zaixing-sun' -c user.email='zaixing.sun@micc.hitsz.edu.cn' commit -m 'anything' 
-          git push "https://${ { github.actor } }:${ { secrets.HOMEPAGE_ACCESS_TOKEN } }@github.com/zaixing-sun.github.io" HEAD:main -f -q
+          git -c user.name='zaixing-sun' -c user.email='zaixing.sun@micc.hitsz.edu.cn' commit -m '<message>' 
+          git remote add origin https://${{secrets.HOMEPAGE_ACCESS_TOKEN}}@github.com/zaixing-sun/zaixing-sun.github.io.git
+          git push origin gh-pages -f -q
+
+      # - name: 部署_site到博客网站仓库
+      #   working-directory: ./_site
+      #   run: |
+      #     git init
+      #     git checkout -b main
+      #     git add -A
+      #     git -c user.name='zaixing-sun' -c user.email='zaixing.sun@micc.hitsz.edu.cn' commit -m 'anything' 
+      #     git push "https://${ { github.actor } }:${ { secrets.HOMEPAGE_ACCESS_TOKEN } }@github.com/zaixing-sun.github.io" HEAD:main -f -q
 
 
 
