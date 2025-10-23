@@ -57,7 +57,7 @@ He welcomes inquiries and collaboration via email at zaixing.sun@micc.hitsz.edu.
 
 1. `Zaixing Sun`, Chonglin Gu, Hejiao Huang, and Honglin Zhang, “T2FA: A Heuristic Algorithm for Deadline-Constrained Workflow Scheduling in Cloud with Multicore Resource,” in *2021 IEEE 14th International Conference on Cloud Computing (CLOUD)*, IEEE, Sep. 2021, pp. 345–354, [doi:10.1109/CLOUD53861.2021.00048](https://doi.org/10.1109/CLOUD53861.2021.00048). [[pdf]](/publications/Sun2021-IEEECLOUD.pdf)  (CCF C)
 
-1. `Zaixing Sun`, Bin Qian, Rong Hu, Ziqi Zhang, and Changsheng Zhang, “Flower Pollination Algorithm Based on Block Structure Properties for Reentrant Job Shop Scheduling Problem,” *Journal of Mechanical Engineering*, vol. 55, no. 16, pp. 220–232, Aug. 2019, [doi:10.3901/JME.2019.16.220](https://doi.org/10.3901/JME.2019.16.220). [[pdf]](/publications/Sun2019-CJME.pdf)
+1. `Zaixing Sun`, Bin Qian, Rong Hu, Ziqi Zhang, and Changsheng Zhang, “Flower Pollination Algorithm Based on Block Structure Properties for Reentrant Job Shop Scheduling Problem,” *Journal of Mechanical Engineering*, vol. 55, no. 16, pp. 220–232, Aug. 2019, [doi:10.3901/JME.2019.16.220](https://doi.org/10.3901/JME.2019.16.220). (In Chinese) [[pdf]](/publications/Sun2019-CJME.pdf)
 
 1. `Zaixing Sun`, Rong Hu, Bin Qian, Bo Liu, and Guo Lin Che, “Salp Swarm Algorithm Based on Blocks on Critical Path for Reentrant Job Shop Scheduling Problems,” in *Proceedings of the International Conference on Intelligent Computing*, 2018, pp. 638–648, [doi:10.1007/978-3-319-95930-6_64](https://doi.org/10.1007/978-3-319-95930-6_64). [[pdf]](/publications/Sun2018-ICIC.pdf)
 
