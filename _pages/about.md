@@ -87,7 +87,7 @@ He welcomes inquiries and collaboration via email at zaixing.sun@micc.hitsz.edu.
   </tr>
   <tr>
     <td style="vertical-align: top; padding: 4px 5px;">2023.04-2024.04</td>
-    <td style="vertical-align: top; padding: 4px 5px;"> <a href="https://www.wgtn.ac.nz"><img class="svg" src="/images/VUW-logo.svg" width="46pt"></a> <a href="https://ecs.wgtn.ac.nz/Groups/ECRG/WebHome"><img class="png" src="/images/RCRG_picture.png" width="46pt"></a> Visiting Student in Computer Science&nbsp;&nbsp;<em>Victoria University of Wellington, New Zealand</em><br><em>Supervisors: <a href="https://meiyi1986.github.io/">A/Prof. Yi Mei</a>, <a href="https://fangfang-zhang.github.io/">Dr. Fangfang Zhang</a>, <a href="https://homepages.ecs.vuw.ac.nz/~mengjie/">Prof. Mengjie Zhang</a></em></td>
+    <td style="vertical-align: top; padding: 4px 5px;"> <a href="https://www.wgtn.ac.nz"><img class="svg" src="/images/VUW-logo.svg" width="50pt"></a> <a href="https://ecs.wgtn.ac.nz/Groups/ECRG/WebHome"><img class="png" src="/images/RCRG_picture.png" width="46pt"></a> Visiting Student in Computer Science&nbsp;&nbsp;<em>Victoria University of Wellington, New Zealand</em><br><em>Supervisors: <a href="https://meiyi1986.github.io/">A/Prof. Yi Mei</a>, <a href="https://fangfang-zhang.github.io/">Dr. Fangfang Zhang</a>, <a href="https://homepages.ecs.vuw.ac.nz/~mengjie/">Prof. Mengjie Zhang</a></em></td>
   </tr>
   <tr>
     <td style="vertical-align: top; padding: 4px 5px;">2016.09-2019.06</td>
