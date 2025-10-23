@@ -83,7 +83,7 @@ He welcomes inquiries and collaboration via email at zaixing.sun@micc.hitsz.edu.
 <tbody>
   <tr>
     <td style="width:130px; vertical-align: top; padding: 4px 5px;">2020.03-2024.11</td>
-    <td style="vertical-align: top; padding: 4px 5px;"><a href="https://www.hitsz.edu.cn/"><img class="svg" src="/images/HIT-logo.svg" width="24pt"></a> Ph.D in Computer Science and Technology&nbsp;&nbsp;<em>Harbin Institute of Technology, Shenzhen, China</em><br><em>Supervisors: <a href="http://faculty.hitsz.edu.cn/huanghejiao">Prof. Hejiao Huang</a>, <a href="http://faculty.hitsz.edu.cn/guchonglin">Dr. Chonglin Gu</a></em></td>
+    <td style="vertical-align: top; padding: 4px 5px;"><a href="https://www.hitsz.edu.cn/"><img class="svg" src="/images/HIT-logo.svg" width="26pt"></a> Ph.D in Computer Science and Technology&nbsp;&nbsp;<em>Harbin Institute of Technology, Shenzhen, China</em><br><em>Supervisors: <a href="http://faculty.hitsz.edu.cn/huanghejiao">Prof. Hejiao Huang</a>, <a href="http://faculty.hitsz.edu.cn/guchonglin">Dr. Chonglin Gu</a></em></td>
   </tr>
   <tr>
     <td style="vertical-align: top; padding: 4px 5px;">2023.04-2024.04</td>
