@@ -83,19 +83,19 @@ He welcomes inquiries and collaboration via email at zaixing.sun@micc.hitsz.edu.
 <tbody>
   <tr>
     <td style="width:130px; vertical-align: top; padding: 4px 5px;">2020.03-2024.11</td>
-    <td style="vertical-align: top; padding: 4px 5px;"><a href="https://www.hitsz.edu.cn/"><img class="svg" src="/images/HIT-logo.svg" width="23pt"></a> Ph.D in Computer Science and Technology&nbsp;&nbsp;<em>Harbin Institute of Technology, Shenzhen, China</em><br><em>Supervisors: <a href="http://faculty.hitsz.edu.cn/huanghejiao">Prof. Hejiao Huang</a>, <a href="http://faculty.hitsz.edu.cn/guchonglin">Dr. Chonglin Gu</a></em></td>
+    <td style="vertical-align: top; padding: 4px 5px;"><a href="https://www.hitsz.edu.cn/"><img class="svg" src="/images/HIT-logo.svg" width="24pt"></a> Ph.D in Computer Science and Technology&nbsp;&nbsp;<em>Harbin Institute of Technology, Shenzhen, China</em><br><em>Supervisors: <a href="http://faculty.hitsz.edu.cn/huanghejiao">Prof. Hejiao Huang</a>, <a href="http://faculty.hitsz.edu.cn/guchonglin">Dr. Chonglin Gu</a></em></td>
   </tr>
   <tr>
     <td style="vertical-align: top; padding: 4px 5px;">2023.04-2024.04</td>
-    <td style="vertical-align: top; padding: 4px 5px;">Visiting Student in Computer Science&nbsp;&nbsp;<em><a href="https://ecs.wgtn.ac.nz/Groups/ECRG/WebHome"><img class="svg" src="/images/VUW-logo.svg" width="40pt"></a>Victoria University of Wellington, New Zealand</em><br><em>Supervisors: <a href="https://meiyi1986.github.io/">A/Prof. Yi Mei</a>, <a href="https://fangfang-zhang.github.io/">Dr. Fangfang Zhang</a>, <a href="https://homepages.ecs.vuw.ac.nz/~mengjie/">Prof. Mengjie Zhang</a></em></td>
+    <td style="vertical-align: top; padding: 4px 5px;"> <a href="https://www.wgtn.ac.nz"><img class="svg" src="/images/VUW-logo.svg" width="46pt"></a> <a href="https://ecs.wgtn.ac.nz/Groups/ECRG/WebHome"><img class="svg" src="/images/RCRG_picture.png" width="46pt"></a> Visiting Student in Computer Science&nbsp;&nbsp;<em>Victoria University of Wellington, New Zealand</em><br><em>Supervisors: <a href="https://meiyi1986.github.io/">A/Prof. Yi Mei</a>, <a href="https://fangfang-zhang.github.io/">Dr. Fangfang Zhang</a>, <a href="https://homepages.ecs.vuw.ac.nz/~mengjie/">Prof. Mengjie Zhang</a></em></td>
   </tr>
   <tr>
     <td style="vertical-align: top; padding: 4px 5px;">2016.09-2019.06</td>
-    <td style="vertical-align: top; padding: 4px 5px;">M.Eng in Control Engeering&nbsp;&nbsp;<em><a href="https://www.kmust.edu.cn/"><img class="svg" src="/images/KUST-logo.svg" width="23pt"></a>Kunming University of Science and Technology, China</em><br><em>Supervisors: <a href="https://xzy.kmust.edu.cn/info/1159/1394.htm">Prof. Bin Qian</a>, <a href="https://xzy.kmust.edu.cn/info/1159/3305.htm">Prof. Rong Hu</a></em></td>
+    <td style="vertical-align: top; padding: 4px 5px;"><a href="https://www.kmust.edu.cn/"><img class="svg" src="/images/KUST-logo.svg" width="23pt"></a> M.Eng in Control Engeering&nbsp;&nbsp;<em>Kunming University of Science and Technology, China</em><br><em>Supervisors: <a href="https://xzy.kmust.edu.cn/info/1159/1394.htm">Prof. Bin Qian</a>, <a href="https://xzy.kmust.edu.cn/info/1159/3305.htm">Prof. Rong Hu</a></em></td>
   </tr>
   <tr>
     <td style="vertical-align: top; padding: 4px 5px;">2012.09-2016.06</td>
-    <td style="vertical-align: top; padding: 4px 5px;">B.Eng in Electrical Engineering and Automation&nbsp;&nbsp;<em>Luoyang Normal University, China</em></td>
+    <td style="vertical-align: top; padding: 4px 5px;"><a href="https://www.lynu.edu.cn/"><img class="svg" src="/images/KUST-logo.svg" width="23pt"></a> B.Eng in Electrical Engineering and Automation&nbsp;&nbsp;<em>Luoyang Normal University, China</em></td>
   </tr>
 </tbody>
 </table>
