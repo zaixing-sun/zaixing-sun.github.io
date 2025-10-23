@@ -22,7 +22,7 @@ redirect_from:
 He received the B.E. degree in Electrical Engineering and Automation from Luoyang Normal University, Luoyang, China, in 2016,
 the M.E. degree in Control Engineering from Kunming University of Science and Technology, Kunming, China, in 2019,
 and the Ph.D. degree in Computer Science and Technology from Harbin Institute of Technology, Shenzhen, China, in 2024.
-In 2023, he was a visiting student with the Evolutionary Computation Research Group,
+In 2023, he was a visiting student with the [Evolutionary Computation Research Group](https://ecs.wgtn.ac.nz/Groups/ECRG/WebHome),
 Centre for Data Science and Artificial Intelligence & School of Engineering and Computer Science, Victoria University of Wellington, Wellington, New Zealand.
 
 <!-- His research interests include:
