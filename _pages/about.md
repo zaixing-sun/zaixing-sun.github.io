@@ -83,11 +83,11 @@ He welcomes inquiries and collaboration via email at zaixing.sun@micc.hitsz.edu.
 <tbody>
   <tr>
     <td style="width:130px; vertical-align: top; padding: 4px 5px;">2020.03-2024.11</td>
-    <td style="vertical-align: top; padding: 4px 5px;">Ph.D in Computer Science and Technology&nbsp;&nbsp;<em>Harbin Institute of Technology, Shenzhen, China</em><br><em>Supervisors: <a href="http://faculty.hitsz.edu.cn/huanghejiao">Prof. Hejiao Huang</a>, <a href="http://faculty.hitsz.edu.cn/guchonglin">Dr. Chonglin Gu</a></em></td>
+    <td style="vertical-align: top; padding: 4px 5px;">Ph.D in Computer Science and Technology&nbsp;&nbsp;<em><a href="https://www.hitsz.edu.cn/"><img class="svg" src="/images/HIT-logo.svg" width="23pt"></a>Harbin Institute of Technology, Shenzhen, China</em><br><em>Supervisors: <a href="http://faculty.hitsz.edu.cn/huanghejiao">Prof. Hejiao Huang</a>, <a href="http://faculty.hitsz.edu.cn/guchonglin">Dr. Chonglin Gu</a></em></td>
   </tr>
   <tr>
     <td style="vertical-align: top; padding: 4px 5px;">2023.04-2024.04</td>
-    <td style="vertical-align: top; padding: 4px 5px;">Visiting Student in Computer Science&nbsp;&nbsp;<em>Victoria University of Wellington, New Zealand</em><br><em>Supervisors: <a href="https://meiyi1986.github.io/">A/Prof. Yi Mei</a>, <a href="https://fangfang-zhang.github.io/">Dr. Fangfang Zhang</a>, <a href="https://homepages.ecs.vuw.ac.nz/~mengjie/">Prof. Mengjie Zhang</a></em></td>
+    <td style="vertical-align: top; padding: 4px 5px;">Visiting Student in Computer Science&nbsp;&nbsp;<em><a href="https://ecs.wgtn.ac.nz/Groups/ECRG/WebHome"><img class="svg" src="/images/VUW-logo.svg" width="23pt"></a>Victoria University of Wellington, New Zealand</em><br><em>Supervisors: <a href="https://meiyi1986.github.io/">A/Prof. Yi Mei</a>, <a href="https://fangfang-zhang.github.io/">Dr. Fangfang Zhang</a>, <a href="https://homepages.ecs.vuw.ac.nz/~mengjie/">Prof. Mengjie Zhang</a></em></td>
   </tr>
   <tr>
     <td style="vertical-align: top; padding: 4px 5px;">2016.09-2019.06</td>
