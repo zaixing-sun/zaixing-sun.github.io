@@ -37,6 +37,12 @@ jobs:
           destination: ./_site
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
+      - name: Run
+        run: |
+          git init
+          git config --local user.name "${GITHUB_ACTOR}"
+          git config --local user.email "zaixing.sun@micc.hitsz.edu.cn"
+          export remote_repo="https://${GITHUB_ACTOR}:${{ secrets.GHRS_GITHUB_API_TOKEN }}@github.com/zaixing-sun/zaixing-sun.git"
 
   # Deployment job
   deploy:
