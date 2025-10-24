@@ -33,8 +33,8 @@ Centre for Data Science and Artificial Intelligence & School of Engineering and 
   - Heuristic/Meta-Heuristic/Hyper-Heuristic learning/optimisation -->
 His research focuses on solving complex scheduling and resource allocation problems in domains such as cloud computing and smart manufacturing.
 His approach focuses on Evolutionary Machine Learning, primarily leveraging Genetic Programming and other metaheuristic strategies to develop intelligent optimization solutions.
- <a href='https://scholar.google.com/citations?user=t04r-hYAAAAJ&hl'><img src="https://img.shields.io/endpoint?url={{ url_citations | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a><a href='https://scholar.google.com/citations?user=t04r-hYAAAAJ&hl'><img src="https://img.shields.io/endpoint?url={{ url_hindex | url_encode }}&logo=Google%20Scholar&labelColor=0000ff&color=ffa500&style=plastic&label=h-index"></a>
- 
+ <a href='https://scholar.google.com/citations?user=t04r-hYAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url_citations | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a><a href='https://scholar.google.com/citations?user=t04r-hYAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url_hindex | url_encode }}&logo=Google%20Scholar&labelColor=0000ff&color=ffa500&style=plastic&label=h-index"></a>
+
 He welcomes inquiries and collaboration via email at zaixing.sun@micc.hitsz.edu.cn.
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than ** papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=t04r-hYAAAAJ'>google scholar citations <strong><span id='total_cit'>**+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=t04r-hYAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
