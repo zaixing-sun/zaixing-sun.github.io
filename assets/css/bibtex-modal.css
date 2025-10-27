@@ -1,7 +1,7 @@
 .bib-modal {
   display: none;
   position: fixed;
-  z-index: 10000; /* 提高层级 */
+  z-index: 1000;
   left: 0;
   top: 0;
   width: 100%;
@@ -20,44 +20,21 @@
   position: relative;
   max-height: 80vh;
   overflow-y: auto;
-  box-shadow: 0 4px 20px rgba(0,0,0,0.3);
 }
 
-/* 关闭按钮样式 - 确保可见 */
 .bib-close {
-  position: absolute;
-  top: 10px;
-  right: 15px;
   color: #aaa;
+  float: right;
   font-size: 28px;
   font-weight: bold;
   cursor: pointer;
   line-height: 1;
-  z-index: 10001; /* 确保在最上层 */
-  background: rgba(255, 255, 255, 0.9);
-  border-radius: 50%;
-  width: 40px;
-  height: 40px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  box-shadow: 0 2px 5px rgba(0,0,0,0.2);
-  transition: all 0.3s ease;
+  position: absolute;
+  right: 15px;
+  top: 15px;
 }
 
-.bib-close:hover {
-  color: #000;
-  background: rgba(255, 255, 255, 1);
-  transform: scale(1.1);
-}
-
-/* 确保模态框标题区域 */
-.bib-modal-header {
-  position: relative;
-  margin-bottom: 15px;
-  padding-bottom: 10px;
-  border-bottom: 1px solid #eee;
-}
+.bib-close:hover { color: #000; }
 
 #bib-content {
   background: #f8f9fa;
@@ -65,13 +42,11 @@
   border-radius: 5px;
   overflow-x: auto;
   white-space: pre-wrap;
-  margin: 10px 0 20px 0;
+  margin: 20px 0;
   border-left: 4px solid #007acc;
   font-family: 'Courier New', monospace;
   font-size: 14px;
   line-height: 1.4;
-  max-height: 50vh;
-  overflow-y: auto;
 }
 
 .copy-bib-btn {
@@ -83,7 +58,6 @@
   cursor: pointer;
   font-size: 14px;
   margin-right: 10px;
-  transition: background 0.3s ease;
 }
 
 .copy-bib-btn:hover {
@@ -98,7 +72,6 @@
   border-radius: 4px;
   cursor: pointer;
   font-size: 14px;
-  transition: background 0.3s ease;
 }
 
 .close-bib-btn:hover {
@@ -120,24 +93,4 @@
 .bib-buttons {
   text-align: right;
   margin-top: 15px;
-  padding-top: 15px;
-  border-top: 1px solid #eee;
-}
-
-/* 响应式设计 */
-@media (max-width: 768px) {
-  .bib-modal-content {
-    width: 95%;
-    margin: 10% auto;
-    padding-top: 45px;
-  }
-  
-  .bib-close {
-    right: 2.5%;
-    top: 6%;
-  }
-  
-  #bib-content {
-    max-height: 40vh;
-  }
 }
