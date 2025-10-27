@@ -20,21 +20,40 @@
   position: relative;
   max-height: 80vh;
   overflow-y: auto;
+  /* 为固定关闭按钮预留空间 */
+  padding-top: 50px;
 }
 
 .bib-close {
   color: #aaa;
-  float: right;
   font-size: 28px;
   font-weight: bold;
   cursor: pointer;
   line-height: 1;
-  position: absolute;
-  right: 15px;
-  top: 15px;
+  
+  /* 固定定位 */
+  position: fixed;
+  right: calc(10% + 15px); /* 根据模态框位置调整 */
+  top: 7%; /* 根据模态框位置调整 */
+  z-index: 1001; /* 确保在最上层 */
+  
+  /* 样式增强 */
+  background: rgba(255, 255, 255, 0.9);
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+  transition: all 0.3s ease;
 }
 
-.bib-close:hover { color: #000; }
+.bib-close:hover {
+  color: #000;
+  background: rgba(255, 255, 255, 1);
+  transform: scale(1.1);
+}
 
 #bib-content {
   background: #f8f9fa;
@@ -42,11 +61,13 @@
   border-radius: 5px;
   overflow-x: auto;
   white-space: pre-wrap;
-  margin: 20px 0;
+  margin: 10px 0 20px 0;
   border-left: 4px solid #007acc;
   font-family: 'Courier New', monospace;
   font-size: 14px;
   line-height: 1.4;
+  max-height: 50vh;
+  overflow-y: auto;
 }
 
 .copy-bib-btn {
@@ -58,6 +79,7 @@
   cursor: pointer;
   font-size: 14px;
   margin-right: 10px;
+  transition: background 0.3s ease;
 }
 
 .copy-bib-btn:hover {
@@ -72,6 +94,7 @@
   border-radius: 4px;
   cursor: pointer;
   font-size: 14px;
+  transition: background 0.3s ease;
 }
 
 .close-bib-btn:hover {
@@ -93,4 +116,27 @@
 .bib-buttons {
   text-align: right;
   margin-top: 15px;
+  position: sticky;
+  bottom: 0;
+  background: #fefefe;
+  padding: 10px 0;
+  border-top: 1px solid #eee;
+}
+
+/* 响应式设计 */
+@media (max-width: 768px) {
+  .bib-modal-content {
+    width: 95%;
+    margin: 10% auto;
+    padding-top: 45px;
+  }
+  
+  .bib-close {
+    right: 2.5%;
+    top: 6%;
+  }
+  
+  #bib-content {
+    max-height: 40vh;
+  }
 }

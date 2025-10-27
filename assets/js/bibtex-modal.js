@@ -37,43 +37,47 @@ class BibtexModal {
     this.bibContent = document.getElementById('bib-content');
   }
   
-  bindEvents() {
-    // 为所有bib链接添加点击事件（事件委托）
-    document.addEventListener('click', (e) => {
-      if (e.target.classList.contains('bib-link')) {
-        e.preventDefault();
-        this.showBibtex(e.target.dataset.paper);
-      }
-    });
-    
-    // 关闭按钮事件
-    document.querySelector('.bib-close').addEventListener('click', () => {
+bindEvents() {
+  // 为所有bib链接添加点击事件
+  document.addEventListener('click', (e) => {
+    if (e.target.classList.contains('bib-link')) {
+      e.preventDefault();
+      this.showBibtex(e.target.dataset.paper);
+    }
+  });
+  
+  // 关闭按钮事件 - 支持固定和粘性两种关闭按钮
+  document.querySelector('.bib-close')?.addEventListener('click', () => {
+    this.hideModal();
+  });
+  
+  document.querySelector('.bib-close-sticky')?.addEventListener('click', () => {
+    this.hideModal();
+  });
+  
+  document.querySelector('.close-bib-btn')?.addEventListener('click', () => {
+    this.hideModal();
+  });
+  
+  // 点击模态框外部关闭
+  window.addEventListener('click', (e) => {
+    if (e.target === this.modal) {
       this.hideModal();
-    });
-    
-    document.querySelector('.close-bib-btn').addEventListener('click', () => {
+    }
+  });
+  
+  // 复制到剪贴板功能
+  document.querySelector('.copy-bib-btn')?.addEventListener('click', () => {
+    this.copyToClipboard();
+  });
+  
+  // ESC键关闭模态框
+  document.addEventListener('keydown', (e) => {
+    if (e.key === 'Escape' && this.modal.style.display === 'block') {
       this.hideModal();
-    });
-    
-    // 点击模态框外部关闭
-    window.addEventListener('click', (e) => {
-      if (e.target === this.modal) {
-        this.hideModal();
-      }
-    });
-    
-    // 复制到剪贴板功能
-    document.querySelector('.copy-bib-btn').addEventListener('click', () => {
-      this.copyToClipboard();
-    });
-    
-    // ESC键关闭模态框
-    document.addEventListener('keydown', (e) => {
-      if (e.key === 'Escape' && this.modal.style.display === 'block') {
-        this.hideModal();
-      }
-    });
-  }
+    }
+  });
+}
   
   showBibtex(paperId) {
     if (bibDatabase[paperId]) {
