@@ -47,7 +47,24 @@ He welcomes inquiries and collaboration via email at zaixing.sun@micc.hitsz.edu.
 
 1. `Zaixing Sun`, Boyu Zhang, Chonglin Gu, Ruitao Xie, Bin Qian, and Hejiao Huang, “ET2FA: A Hybrid Heuristic Algorithm for Deadline-Constrained Workflow Scheduling in Cloud,” *IEEE Transactions on Services Computing*, vol. 16, no. 3, pp. 1807–1821, 2023, [doi:10.1109/TSC.2022.3196620](https://doi.org/10.1109/TSC.2022.3196620). [[pdf]](/publications/Sun2022-TSC.pdf) (<span style="color:red">CCF A, TOP Journal</span>)
 
-1. `Zaixing Sun`, Hejiao Huang, Zhikai Li, Chonglin Gu, Ruitao Xie, and Bin Qian, “Efficient, economical and energy-saving multi-workflow scheduling in hybrid cloud,” *Expert Systems with Applications*, vol. 228, p. 120401, Oct. 2023, [doi:10.1016/j.eswa.2023.120401](https://doi.org/10.1016/j.eswa.2023.120401). [[pdf]](/publications/Sun2023-ESWA.pdf) (CCF C, <span style="color:red">TOP Journal</span>)
+1. `Zaixing Sun`, Hejiao Huang, Zhikai Li, Chonglin Gu, Ruitao Xie, and Bin Qian, “Efficient, economical and energy-saving multi-workflow scheduling in hybrid cloud,” *Expert Systems with Applications*, vol. 228, p. 120401, Oct. 2023, [doi:10.1016/j.eswa.2023.120401](https://doi.org/10.1016/j.eswa.2023.120401). [[pdf]](/publications/Sun2023-ESWA.pdf) <details><summary>[bib]</summary>
+@article{Sun2023-PMWS-HC,
+abstract = {Benefiting from the flexible, scalable and secure environment, hybrid cloud can overcome the shortage of limited resources in private cloud to simultaneously execute large-scale scientific workflows. In hybrid cloud, privacy-sensitive tasks are not allowed to be executed on public resources, while non-sensitive tasks are unrestricted. As an NP-Complete problem, it is extraordinarily challenging to schedule multiple workflows efficiently, economically and energy-savingly under quality-of-service constraints. This paper models the hybrid-cloud-based privacy-aware multi-workflow scheduling as a tri-objective optimization problem that optimizes workflow-oriented total tardiness, private-cloud-oriented total energy consumption, and public-cloud-oriented total monetary cost. To the best of authors' knowledge, few studies have been conducted on the tri-objective privacy-aware multi-workflow scheduling in hybrid cloud (PMWS-HC). To solve this problem, we dissect various factors involved during task scheduling and devise a novel Heuristic Scheduling Algorithm based on 9 Factors (HSA9Fs), which dynamically selects the workflows and tasks to be scheduled, and the corresponding VMs to execute them. To optimize the three conflicting objectives simultaneously, we propose a nested algorithm called MSIA, which first employs a Multi-objective Salp swarm algorithm to explore for the Pareto solutions, and then uses an Iterative greedy Algorithm to perform a refined search on individuals to obtain high-quality solutions. Extensive Medium-Small-Scale and Large-Scale simulation experiments show that both HSA9Fs and MSIA outperform state-of-the-art scheduling algorithms in several multi-objective performance metrics.},
+author = {Sun, Zaixing and Huang, Hejiao and Li, Zhikai and Gu, Chonglin and Xie, Ruitao and Qian, Bin},
+doi = {10.1016/j.eswa.2023.120401},
+issn = {09574174},
+journal = {Expert Systems with Applications},
+keywords = {Directed acyclic graph,Heuristic algorithm,Hybrid cloud,Multi-objective optimization,Multi-workflow scheduling,Pareto front},
+mendeley-groups = {bib,multiple clouds},
+month = {oct},
+pages = {120401},
+title = {{Efficient, economical and energy-saving multi-workflow scheduling in hybrid cloud}},
+url = {https://linkinghub.elsevier.com/retrieve/pii/S095741742300903X},
+volume = {228},
+year = {2023}
+}
+</details> (CCF C, <span style="color:red">TOP Journal</span>)
+
 
 1. `Zaixing Sun`, Hejiao Huang, Zhikai Li, and Chonglin Gu, “Energy-efficient real-time multi-workflow scheduling in container-based cloud,” *Journal of Combinatorial Optimization*, vol. 49, no. 34, pp. 1–21, 2025, [doi:10.1007/s10878-025-01265-8](https://doi.org/10.1007/s10878-025-01265-8). [[pdf]](/publications/Sun2025-JOCO.pdf)
 
