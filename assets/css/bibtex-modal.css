@@ -1,7 +1,7 @@
 .bib-modal {
   display: none;
   position: fixed;
-  z-index: 1000;
+  z-index: 10000; /* 提高层级 */
   left: 0;
   top: 0;
   width: 100%;
@@ -20,24 +20,20 @@
   position: relative;
   max-height: 80vh;
   overflow-y: auto;
-  /* 为固定关闭按钮预留空间 */
-  padding-top: 50px;
+  box-shadow: 0 4px 20px rgba(0,0,0,0.3);
 }
 
+/* 关闭按钮样式 - 确保可见 */
 .bib-close {
+  position: absolute;
+  top: 10px;
+  right: 15px;
   color: #aaa;
   font-size: 28px;
   font-weight: bold;
   cursor: pointer;
   line-height: 1;
-  
-  /* 固定定位 */
-  position: fixed;
-  right: calc(10% + 15px); /* 根据模态框位置调整 */
-  top: 7%; /* 根据模态框位置调整 */
-  z-index: 1001; /* 确保在最上层 */
-  
-  /* 样式增强 */
+  z-index: 10001; /* 确保在最上层 */
   background: rgba(255, 255, 255, 0.9);
   border-radius: 50%;
   width: 40px;
@@ -53,6 +49,14 @@
   color: #000;
   background: rgba(255, 255, 255, 1);
   transform: scale(1.1);
+}
+
+/* 确保模态框标题区域 */
+.bib-modal-header {
+  position: relative;
+  margin-bottom: 15px;
+  padding-bottom: 10px;
+  border-bottom: 1px solid #eee;
 }
 
 #bib-content {
@@ -116,10 +120,7 @@
 .bib-buttons {
   text-align: right;
   margin-top: 15px;
-  position: sticky;
-  bottom: 0;
-  background: #fefefe;
-  padding: 10px 0;
+  padding-top: 15px;
   border-top: 1px solid #eee;
 }
 
