@@ -112,6 +112,3 @@ He welcomes inquiries and collaboration via email at zaixing.sun@micc.hitsz.edu.
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
 
 
-<!-- 引入 JavaScript 文件 -->
-<script src="/publications/bibtex-data.js"></script>
-<script src="/assets/js/bibtex-modal.js"></script>
