@@ -41,7 +41,9 @@ He welcomes inquiries and collaboration via email at zaixing.sun@micc.hitsz.edu.
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
-# 📝 Publications <small><i>These papers are provided for academic research and rapid dissemination purposes only. Copyright belongs to the respective publishers.</i></small>
+# 📝 Publications 
+
+<small><i>These papers are provided for academic research and rapid dissemination purposes only. Copyright belongs to the respective publishers.</i></small>
 
 1. `Zaixing Sun`, Fangfang Zhang, Yi Mei, Hejiao Huang, Chonglin Gu, Bin Wang, and Mengjie Zhang, “Cooperative Coevolution Genetic Programming for Dynamic Joint Workflow Scheduling and Container Scaling in Cloud-Fog Computing,” *IEEE Transactions on Services Computing*, Accept. [XX](<span style="color:red">CCF A, TOP Journal</span>)
 
