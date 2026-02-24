@@ -45,7 +45,7 @@ He welcomes inquiries and collaboration via email at zaixing.sun@micc.hitsz.edu.
 
 <small><i>These papers are provided for academic research and rapid dissemination purposes only. Copyright belongs to the respective publishers.</i></small>
 
-1. `Zaixing Sun`, Fangfang Zhang, Yi Mei, Hejiao Huang, Chonglin Gu, Bin Wang, and Mengjie Zhang, “Cooperative Coevolution Genetic Programming for Dynamic Joint Workflow Scheduling and Container Scaling in Cloud-Fog Computing,” *IEEE Transactions on Services Computing*, [doi:10.1109/TSC.2025.3636121](https://doi.org/10.1109/TSC.2025.3636121). Accept on Nov. 2025. [pdf] <a href="#" class="bib-link" data-paper="Sun2025-TSC">[cite]</a> (<span style="color:red">CCF A, TOP Journal</span>)
+1. `Zaixing Sun`, Fangfang Zhang, Yi Mei, Hejiao Huang, Chonglin Gu, Bin Wang, and Mengjie Zhang, “Cooperative Coevolution Genetic Programming for Dynamic Joint Workflow Scheduling and Container Scaling in Cloud-Fog Computing,” *IEEE Transactions on Services Computing*, vol. 19, no. 1, pp. 225–239, Jan. 2026, [doi:10.1109/TSC.2025.3636121](https://doi.org/10.1109/TSC.2025.3636121). [pdf] <a href="#" class="bib-link" data-paper="Sun2025-TSC">[cite]</a> (<span style="color:red">CCF A, TOP Journal</span>)
 
 1. `Zaixing Sun`, Yi Mei, Fangfang Zhang, Hejiao Huang, Chonglin Gu, and Mengjie Zhang, “Multi-Tree Genetic Programming Hyper-Heuristic for Dynamic Flexible Workflow Scheduling in Multi-Clouds,” *IEEE Transactions on Services Computing*, vol. 17, no. 5, pp. 2687–2703, Sep. 2024, [doi:10.1109/TSC.2024.3394691](https://doi.org/10.1109/TSC.2024.3394691). [[pdf]](/publications/Sun2024-TSC.pdf) <a href="#" class="bib-link" data-paper="Sun2024-TSC">[cite]</a> (<span style="color:red">CCF A, TOP Journal</span>)
 
