@@ -116,15 +116,20 @@ year = {2021}
 
     'Sun2025-TSC': `@article{Sun2025-TSC,
 abstract = {Cloud-Fog computing has emerged as an essential paradigm to support the growing demand for real-time data processing driven by the Internet of Things. By integrating the extensive computing capabilities of cloud data centres with the low-latency benefits of fog nodes, this architecture increases resource utilisation and improves quality of service. However, the dynamic and heterogeneous nature of cloud fog environments poses significant workflow scheduling challenges, especially when optimising multiple trade-offs such as latency, cost, energy consumption, and resource utilisation. This paper investigates the many-objective dynamic workflow scheduling problem under deadline constraints in container-based cloud-fog computing environments (MDWS-CoCF). Unlike existing studies that primarily focus on horizontal scaling, this work considers both vertical and horizontal scaling of containers, allowing for real-time adjustments of container configurations based on task-specific requirements. To address this complex problem, we first develop a dynamic workflow scheduling simulator that models real-world scenarios, including a variety of task categories and container scalability. Based on this simulator, we propose a Cooperative Coevolution Genetic Programming (CCGP) approach that evolves specialised heuristics for task selection, resource allocation, and container deployment to facilitate adaptive and efficient scheduling in MDWS-CoCF. Extensive simulations using real-world data traces show that the proposed CCGP approach significantly outperforms existing baseline algorithms, achieving superior performance as measured by the HyperVolume and Inverted Generational Distance metrics. The results show that the evolved heuristics are robust and effective under different dynamic scenarios, ensuring balanced optimisation of many objectives.},
-author = {Sun, Zaixing and Zhang, Fangfang and Mei, Yi and Member, Senior and Huang, Hejiao and Gu, Chonglin and Wang, Bin and Zhang, Mengjie},
+author = {Sun, Zaixing and Zhang, Fangfang and Mei, Yi and Huang, Hejiao and Gu, Chonglin and Wang, Bin and Zhang, Mengjie},
 doi = {10.1109/TSC.2025.3636121},
+isbn = {1211173609009},
+issn = {1939-1374},
 journal = {IEEE Transactions on Services Computing},
-number = {},
-volume = {},
-pages = {1--14, to be published, doi: {10.1109/TSC.2025.3636121}},
+keywords = {Cloud computing,dynamic many-objective optimisation,elastic scaling,fog computing,genetic programming hyper-heuristic,workflow scheduling},
+month = {jan},
+number = {1},
+pages = {225--239},
 publisher = {IEEE},
 title = {{Cooperative Coevolution Genetic Programming for Dynamic Joint Workflow Scheduling and Container Scaling in Cloud-Fog Computing}},
-year = {2025}
+url = {https://ieeexplore.ieee.org/document/11267070/},
+volume = {19},
+year = {2026}
 }`,
 
 }
