@@ -135,8 +135,6 @@ year = {2026}
     'Sun2026-INFOCOM': `@@inproceedings{Sun2026-INFOCOM,
 author = {Sun, Zaixing and Zhang, Liang and Tang, Quan and Jiang, Jun and Gu, Chonglin and Wang, Bin},
 booktitle = {IEEE Conf. Comput. Commun. Work. INFOCOM WKSHPS 2026},
-file = {:Users/zaixing/Github/Mendeley Desktop/IEEE Conference on Computer Communications Workshops, INFOCOM WKSHPS 2026/Sun et al.. 2026. Multitask Cooperative Genetic Programming for Co-Scheduling Online-Offline Workflows in the Cloud.pdf:pdf},
-isbn = {2024121117360},
 pages = {1--6},
 title = {{Multitask Cooperative Genetic Programming for Co-Scheduling Online-Offline Workflows in the Cloud}},
 year = {2026}
