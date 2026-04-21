@@ -78,7 +78,7 @@ He welcomes inquiries and collaboration via email at zaixing.sun@micc.hitsz.edu.
 
 1. Honglin Zhang, Yaohua Wu, and **Zaixing Sun**, “EHEFT-R: multi-objective task scheduling scheme in cloud computing,” *Complex & Intelligent Systems*, vol. 8, no. 6, pp. 4475–4482, Dec. 2022, [doi:10.1007/s40747-021-00479-7](https://doi.org/10.1007/s40747-021-00479-7). [[pdf]](/publications/Sun2021-CIS-Zhang.pdf)
 
-1. 邓超, 钱斌, 胡蓉, 王凌, **孙在省**. 融合规则的HEDA求解带工件批量运输的三阶段装配集成调度问题[J]. 控制与决策, 35(10): 2507-2513, 2020, [doi:10.13195/j.kzyjc.2019.0307](https://doi.org/10.13195/j.kzyjc.2019.0307)
+1. 邓超, 钱斌, 胡蓉, 王凌, **孙在省**. 融合规则的HEDA求解带工件批量运输的三阶段装配集成调度问题[J]. 控制与决策, 35(10): 2507-2513, 2020, [doi:10.13195/j.kzyjc.2019.0307](https://doi.org/10.13195/j.kzyjc.2019.0307).
 <!-- 1. Chao Deng, Bin Qian, Rong Hu, Ling Wang, and **Zaixing Sun**, “Rule-based hybrid EDA for three-stage assembly integrated scheduling problem with job batches transportation,” *Control and Decision*, vol. 35, no. 10, pp. 2507–2513, 2020, [doi:10.13195/j.kzyjc.2019.0307](https://doi.org/10.13195/j.kzyjc.2019.0307). (In Chinese) -->
 
 1. Hong Lin Zhang, Bin Qian, **Zaixing Sun**, Rong Hu, Bo Liu, and Ning Guo, “Single-machine Green Scheduling to Minimize Total Flow Time and Carbon Emission,” in *Proceedings of the International Conference on Intelligent Computing*, 2018, pp. 670–678, [doi:10.1007/978-3-319-95930-6_67](https://doi.org/10.1007/978-3-319-95930-6_67). [[pdf]](/publications/Sun2018-ICIC-Zhang.pdf)
