@@ -132,13 +132,41 @@ volume = {19},
 year = {2026}
 }`,
 
-    'Sun2026-INFOCOM': `@@inproceedings{Sun2026-INFOCOM,
+    'Sun2026-INFOCOM': `@inproceedings{Sun2026-INFOCOM,
 author = {Sun, Zaixing and Zhang, Liang and Tang, Quan and Jiang, Jun and Gu, Chonglin and Wang, Bin},
 booktitle = {IEEE Conf. Comput. Commun. Work. INFOCOM WKSHPS 2026},
 pages = {1--6},
 title = {{Multitask Cooperative Genetic Programming for Co-Scheduling Online-Offline Workflows in the Cloud}},
 year = {2026}
 }`,
+
+    'Ma2025-ICIC': `@inproceedings{Ma2025,
+author = {Ma, Haoran and Liu, Qiang and Liu, Hang and Sun, Zaixing and B, Chonglin Gu},
+booktitle = {Proceedings of the International Conference on Intelligent Computing},
+doi = {10.1007/978-981-96-9872-1},
+keywords = {Cloud Data Center,DVFS,Energy-aware,On/Off switching,Task Scheduling,cloud,dvfs,energy-aware,off switching,on,task scheduling},
+pages = {517--528},
+publisher = {Springer Nature Singapore},
+title = {{Energy-Aware Task Scheduling Using DVFS and On / Off Switching in Data Center}},
+url = {http://dx.doi.org/10.1007/978-981-96-9872-1_43},
+volume = {1},
+year = {2025}
+}`,
+
+    'Liu2025-ICIC': `@inproceedings{Liu2025,
+author = {Liu, Hang and Ma, Haoran and Liu, Qiang and Sun, Zaixing and B, Chonglin Gu},
+booktitle = {Proceedings of the International Conference on Intelligent Computing},
+doi = {10.1007/978-981-96-9812-7},
+isbn = {9789819698127},
+keywords = {MEC-cloud,energy-efficient,mec-cloud,offloading,sleep},
+pages = {295--307},
+publisher = {Springer Nature Singapore},
+title = {{Energy-Efficient Task Offloading in MEC-Cloud}},
+url = {http://dx.doi.org/10.1007/978-981-96-9812-7_25},
+volume = {1},
+year = {2025}
+}`,
+
 
 
 }
