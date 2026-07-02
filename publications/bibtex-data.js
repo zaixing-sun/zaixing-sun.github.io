@@ -133,10 +133,17 @@ year = {2026}
 }`,
 
     'Sun2026-INFOCOM': `@inproceedings{Sun2026-INFOCOM,
+abstract = {The underutilization of cloud resources remains a significant challenge due to overprovisioning and resource silos. While co-scheduling latency-critical online workflows with best-effort offline workflows is a promising strategy, existing approaches often overlook the complex bidirectional coupling and fine-grained resource dependencies between these workloads. This paper studies the Co-Scheduling of Online-Offline Workflows problem, formulated as a coupled multitask optimization model that jointly accounts for fine-grained CPU/memory configuration and parallel task execution within virtual machines. The objective is to simultaneously minimize the total flowtime of online workflows and the total cost of shared cloud clusters. We propose a Multitask Cooperative Genetic Programming (MCGP) approach to address the dynamic interaction where the scheduling decision of one task alters the environment of another. MCGP automatically evolves and learns two dedicated rule pairs, comprising task and resource selection rules, tailored for online and offline workflows, respectively. MCGP enables the two scheduling strategies to collaborate effectively within a shared environment by integrating multitask learning for knowledge transfer and cooperative coevolution for strategy co-adaptation. Extensive simulation experiments based on real-world traces show that MCGP consistently outperforms existing baselines in terms of reducing total flowtime and costs, and improving the success rate.},
 author = {Sun, Zaixing and Zhang, Liang and Tang, Quan and Jiang, Jun and Gu, Chonglin and Wang, Bin},
-booktitle = {IEEE Conf. Comput. Commun. Work. INFOCOM WKSHPS 2026},
+booktitle = {IEEE INFOCOM 2026 - IEEE Conf. Comput. Commun.},
+doi = {10.1109/INFOCOM59046.2026.11571438},
+file = {:Users/zaixing/Github/Mendeley Desktop/IEEE INFOCOM 2026 - IEEE Conference on Computer Communications/Sun et al.. 2026. Multitask Cooperative Genetic Programming for Co-Scheduling Online-Offline Workflows in the Cloud.pdf:pdf},
+isbn = {979-8-3315-4961-9},
+month = {may},
 pages = {1--6},
+publisher = {IEEE},
 title = {{Multitask Cooperative Genetic Programming for Co-Scheduling Online-Offline Workflows in the Cloud}},
+url = {https://ieeexplore.ieee.org/document/11571438/},
 year = {2026}
 }`,
 
