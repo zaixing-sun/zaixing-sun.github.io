@@ -33,11 +33,11 @@ He received the Outstanding Ph.D. Dissertation Award from the Heilongjiang Compu
 He serves as a reviewer for IEEE TEVC, IEEE TCC, IEEE TASE, ESWA, CEC, ICIC, and other journals/conferences.
 He welcomes inquiries and collaboration via email at [zaixing.sun@micc.hitsz.edu.cn](mailto:zaixing.sun@micc.hitsz.edu.cn).
 
-<!-- ## 🔥 News
+## 🔥 News
 
-- *2026.08*: Served as the principal investigator of a China Postdoctoral Science Foundation project on multi-dimensional cooperative workflow scheduling for computing-power-network-enabled multi-access edge computing.
+- *2026.08*: Served as the principal investigator of a China Postdoctoral Science Foundation project.
 - *2026.08*: Received the Outstanding Ph.D. Dissertation Award from the Heilongjiang Computer Federation.
-- *2026.05*: One first-author paper was accepted by IEEE INFOCOM 2026.
+<!-- - *2026.05*: One first-author paper was accepted by IEEE INFOCOM 2026.
 - *2025.02*: Joined Pengcheng Laboratory as a Postdoctoral Fellow. -->
 
 ## 🔬 Research Interests
