@@ -27,6 +27,7 @@ Centre for Data Science and Artificial Intelligence & School of Engineering and 
 His research focuses on workflow scheduling, resource allocation, and intelligent optimization for cloud/edge/fog computing, computing power networks, and smart manufacturing systems.
 Methodologically, he is interested in evolutionary machine learning, genetic programming hyper-heuristics, cooperative coevolution, multitask optimization, Bayesian search, deep reinforcement learning, and metaheuristic optimization.
 He has published 11 first-author papers, including 5 papers in CCF-A venues or CAS Q1 journals (4 Top journals) and 1 paper in a leading Chinese journal.
+
 <!-- He also has 7 first-author/corresponding-author manuscripts submitted to or under review at CCF-A venues or CAS Q1 journals, including IEEE TSC, IEEE TMC, IEEE TPDS, IEEE TEVC, IEEE INFOCOM, and SODA. -->
 
 He is the principal investigator of a China Postdoctoral Science Foundation project and a core member of a major research project at Pengcheng Laboratory. 
