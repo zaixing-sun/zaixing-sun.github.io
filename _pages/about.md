@@ -36,7 +36,7 @@ He welcomes inquiries and collaboration via email at [zaixing.sun@micc.hitsz.edu
 ## 🔥 News
 
 - *2026.08*: Served as the principal investigator of a China Postdoctoral Science Foundation project.
-- *2026.08*: Received the Outstanding Ph.D. Dissertation Award from the Heilongjiang Computer Federation.
+- *2026.07*: Received the Outstanding Ph.D. Dissertation Award from the Heilongjiang Computer Federation.
 <!-- - *2026.05*: One first-author paper was accepted by IEEE INFOCOM 2026.
 - *2025.02*: Joined Pengcheng Laboratory as a Postdoctoral Fellow. -->
 
