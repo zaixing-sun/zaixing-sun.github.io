@@ -76,7 +76,7 @@ He welcomes inquiries and collaboration via email at [zaixing.sun@micc.hitsz.edu
 
 1. `Zaixing Sun`, Rong Hu, Bin Qian, Bo Liu, and Guo Lin Che, “Salp Swarm Algorithm Based on Blocks on Critical Path for Reentrant Job Shop Scheduling Problems,” in *Proceedings of the International Conference on Intelligent Computing*, 2018, pp. 638–648, [doi:10.1007/978-3-319-95930-6_64](https://doi.org/10.1007/978-3-319-95930-6_64). [[pdf]](/publications/Sun2018-ICIC.pdf)
 
-### Selected manuscripts under review
+<!-- ### Selected manuscripts under review
 
 1. `Zaixing Sun`, Qingbo Wu, Bin Wang, Fan Zhang, Yi Mei, and Keqin Li. “A Multitask Cooperative Genetic Programming Hyper-Heuristic for Co-scheduling Coupled Online and Offline Cloud Workflows.” *IEEE Transactions on Services Computing*. Under review. (<span style="color:red">CCF A, CAS Q1 TOP Journal</span>)
 
@@ -90,7 +90,7 @@ He welcomes inquiries and collaboration via email at [zaixing.sun@micc.hitsz.edu
 
 1. Yanghao Zhuang, Hejiao Huang, Chonglin Gu, `Zaixing Sun`*, Yi Mei, and Keqin Li. “LOTUS: A Layer-Oriented Task Unified Scheduling Algorithm for Latency Optimization in MEC.” *IEEE Transactions on Mobile Computing*. Under review. (*Co-corresponding author;* <span style="color:red">CCF A, CAS Q1 TOP Journal</span>)
 
-1. Gang Yan, Hejiao Huang, Chonglin Gu, `Zaixing Sun`*, Yi Mei, and Keqin Li. “QoS-Aware Dynamic Joint Service Placement and Workflow Scheduling in Cloud-Assisted Edge Computing.” *IEEE Transactions on Parallel and Distributed Systems*. Under review. (*Co-corresponding author;* <span style="color:red">CCF A, CAS Q1 TOP Journal</span>)
+1. Gang Yan, Hejiao Huang, Chonglin Gu, `Zaixing Sun`*, Yi Mei, and Keqin Li. “QoS-Aware Dynamic Joint Service Placement and Workflow Scheduling in Cloud-Assisted Edge Computing.” *IEEE Transactions on Parallel and Distributed Systems*. Under review. (*Co-corresponding author;* <span style="color:red">CCF A, CAS Q1 TOP Journal</span>) -->
 
 ### Co-authored publications
 
