@@ -31,7 +31,7 @@ He also has 7 first-author/corresponding-author manuscripts submitted to or unde
 
 He is the principal investigator of a China Postdoctoral Science Foundation project and a core member of a major research project at Pengcheng Laboratory.
 He received the Outstanding Ph.D. Dissertation Award from the Heilongjiang Computer Federation.
-He serves as a reviewer for IEEE TEVC, IEEE TCC, IEEE TASE, Expert Systems with Applications, CEC, ICIC, and other journals/conferences.
+He serves as a reviewer for IEEE TEVC, IEEE TCC, IEEE TASE, ESWA, CEC, ICIC, and other journals/conferences.
 He welcomes inquiries and collaboration via email at [zaixing.sun@micc.hitsz.edu.cn](mailto:zaixing.sun@micc.hitsz.edu.cn).
 
 <!-- ## 🔥 News
