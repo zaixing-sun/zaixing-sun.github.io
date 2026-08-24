@@ -172,6 +172,7 @@ He welcomes inquiries and collaboration via email at [zaixing.sun@micc.hitsz.edu
 - 2019 Outstanding Graduate Student Scientific and Technological Innovation Achievement Award, Yunnan Province.
 - National Third Prize, the 14th “Huawei Cup” China Graduate Mathematical Contest in Modeling.
 - 2018 National Scholarship for Graduate Students.
+
 <!-- - 2017-2018 Outstanding Graduate Student Party Branch Secretary.
 - 2016-2017 Outstanding Graduate Student Party Member. -->
 
@@ -179,6 +180,7 @@ He welcomes inquiries and collaboration via email at [zaixing.sun@micc.hitsz.edu
 
 - Reviewer for journals including IEEE Transactions on Evolutionary Computation, IEEE Transactions on Cloud Computing, IEEE Transactions on Automation Science and Engineering, Expert Systems with Applications, Franklin Open, Results in Engineering, and Sustainable Computing.
 - Reviewer for conferences including IEEE Congress on Evolutionary Computation (CEC) and International Conference on Intelligent Computing (ICIC).
+
 <!-- - Professional member of China Computer Federation (CCF) and committee member of the CCF Technical Committee on Services Computing.
 - Invited or selected presentations at international conferences including IEEE INFOCOM, IEEE CLOUD, ICIC, and COCOA. -->
 
