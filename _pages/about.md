@@ -122,7 +122,7 @@ He welcomes inquiries and collaboration via email at [zaixing.sun@micc.hitsz.edu
 </tbody>
 </table>
 
-## 📖 Education
+## 📖 Educations
 
 <table>
 <tbody>
